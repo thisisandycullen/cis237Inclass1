@@ -1,4 +1,4 @@
-# Assignment 1 - Your First Application and Introduction to Git
+# InClass 1 - Classes and Introduction to Git
 
 ## Author
 
